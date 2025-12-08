@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="https://storage.googleapis.com/kaggle-datasets-images/2157196/3596711/152cf2739a425ac61b8d859b7803bfac/dataset-cover.png?t=2022-05-08-02-43-49" alt=""/>
+  <img src="https://raw.githubusercontent.com/emirhanai/Planets-and-Moons-Dataset-AI-in-Space-/main/Planets%20and%20Moons%20Dataset%20-%20AI%20in%20Space%20%F0%9F%8C%8C%20%F0%9F%9B%B0%20%E2%98%84%20%F0%9F%94%AD.png" alt=""/>
 </p>
 
 <p>download dataset from here:</p>
 <a href="https://www.kaggle.com/datasets/emirhanai/planets-and-moons-dataset-ai-in-space">Download</a>
+
+<p>Create a planets folder in your project then extract your data inside that folder</p>
