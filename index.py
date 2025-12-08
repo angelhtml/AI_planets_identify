@@ -77,4 +77,5 @@ planets_list = ['Earth', 'Jupiter', 'MakeMake', 'Mars', 'Mercury', 'Moon', 'Nept
 print("\n__________________\n","max: ",np.argmax(result))
 print(f'{fg(196)}{bg(55)}{ planets_list[np.argmax(result)] }{attr(0)}')
 
+
 """
